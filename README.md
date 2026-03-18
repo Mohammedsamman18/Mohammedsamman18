@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Samman&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/Mohammedsamman18">
+<a href="https://github.com/mohammedsalehsamman">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C060D0&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mohammed+%F0%9F%91%8B;Full-Stack+Developer+%E2%9A%A1;Machine+Learning+Engineer+%F0%9F%A4%96;TypeScript+%2B+Python+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mohammedsamman18&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=mohammedsalehsamman&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/Mohammedsamman18?tab=followers">
-  <img src="https://img.shields.io/github/followers/Mohammedsamman18?style=for-the-badge&color=blueviolet&labelColor=1a1a2e" alt="Followers"/>
+<a href="https://github.com/mohammedsalehsamman?tab=followers">
+  <img src="https://img.shields.io/github/followers/mohammedsalehsamman?style=for-the-badge&color=blueviolet&labelColor=1a1a2e" alt="Followers"/>
 </a>
 
 </div>
@@ -23,7 +23,7 @@
 ```typescript
 const mohammed = {
   name:     "Mohammed Saleh Samman",
-  handle:   "@Mohammedsamman18",
+  handle:   "@mohammedsalehsamman",
   role:     ["Full-Stack Developer", "ML Engineer"],
   stack:    ["TypeScript", "React", "Python", "scikit-learn"],
   passion:  "Building intelligent apps that look beautiful",
@@ -67,18 +67,18 @@ const mohammed = {
 
 <div align="center">
 
-<a href="https://github.com/Mohammedsamman18/telecom-churn-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammedsamman18&repo=telecom-churn-prediction&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff" />
+<a href="https://github.com/mohammedsalehsamman/telecom-churn-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedsalehsamman&repo=telecom-churn-prediction&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff" />
 </a>
 &nbsp;
-<a href="https://github.com/Mohammedsamman18/geo_ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammedsamman18&repo=geo_ai&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff" />
+<a href="https://github.com/mohammedsalehsamman/geo_ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedsalehsamman&repo=geo_ai&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Mohammedsamman18/my-personal-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohammedsamman18&repo=my-personal-portfolio&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff" />
+<a href="https://github.com/mohammedsalehsamman/my-personal-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedsalehsamman&repo=my-personal-portfolio&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff" />
 </a>
 
 </div>
@@ -89,13 +89,13 @@ const mohammed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammedsamman18&show_icons=true&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedsalehsamman&show_icons=true&theme=tokyonight&border_color=C060D0&title_color=C060D0&icon_color=00e5ff&text_color=ffffff&bg_color=0d1117" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedsamman18&layout=compact&theme=tokyonight&border_color=C060D0&title_color=C060D0&text_color=ffffff&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsalehsamman&layout=compact&theme=tokyonight&border_color=C060D0&title_color=C060D0&text_color=ffffff&bg_color=0d1117" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedsamman18&theme=tokyonight&border=C060D0&ring=C060D0&fire=00e5ff&currStreakLabel=C060D0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedsalehsamman&theme=tokyonight&border=C060D0&ring=C060D0&fire=00e5ff&currStreakLabel=C060D0" />
 
 </div>
 
@@ -105,7 +105,7 @@ const mohammed = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Mohammedsamman18-181717?style=for-the-badge&logo=github)](https://github.com/Mohammedsamman18)
+[![GitHub](https://img.shields.io/badge/GitHub-mohammedsalehsamman-181717?style=for-the-badge&logo=github)](https://github.com/mohammedsalehsamman)
 [![Instagram](https://img.shields.io/badge/Instagram-mohammedsamman__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammedsamman_)
 [![Facebook](https://img.shields.io/badge/Facebook-mohammed.s.samman-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mohammed.s.samman)
 
